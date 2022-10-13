@@ -1,7 +1,7 @@
 {
   "name": "wwww-dipo4dgc-slot-deposit-login",
   "theme": "syntax",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "dipo4dgc - Situs Slot Online Gacor Terpercaya Deposit Paling Gacor No.1 2022",
   "keywords": [
     "dipo4dgc",
@@ -16,4 +16,3 @@
     "atom": ">=1.0.0 <2.0.0"
   }
 }
-
